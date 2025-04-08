@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Aman Deep Singh, a front-end web developer passionate about creating dynamic and responsive web experiences.<br><br>🔭 Currently building React Single Page Applications (SPAs)<br>🌱 Learning and improving my skills in React.js<br>🤝 Looking for guidance and collaboration on React projects<br>💬 Ask me anything about Front-End Web Development<br><br>🚀 Always eager to learn and grow—check out my projects below!
+👋 Hi, I'm Aman Deep Singh, a front-end web developer passionate about creating dynamic and responsive web experiences.<br><br>🔭 Currently building React Single Page Applications (SPAs)<br>🌱 Learning and improving my skills in React.js<br>🤝 Looking for guidance and collaboration on React projects<br>💬  Enthusiastic about Front-End Web Development<br><br>🚀 Always eager to learn and grow—check out my projects below!
 
 
 ## 🌐 Socials:
